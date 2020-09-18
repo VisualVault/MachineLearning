@@ -1,2 +1,2 @@
-# MachineLearning
-Machine Learning Configuration Examples
+# Machine Learning
+VisualVault Machine Learning Configuration Examples
